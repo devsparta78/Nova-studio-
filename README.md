@@ -1,2 +1,2 @@
-# Nova-studio-
+# Nova-studio
 Agencia de marketing y desarrollo 
